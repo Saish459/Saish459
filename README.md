@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Saish459/Saish459/main/github-header-image.png)](https://www.linkedin.com/in/pavansaish/)
+<!--![![MasterHead](https://raw.githubusercontent.com/Saish459/Saish459/main/github-header-image.png)](https://www.linkedin.com/in/pavansaish/)-->
 <h1 align="center">Hi 👋, I'm Naru Venkata Pavan Saish</h1>
 <h3 align="center">Passionate Final year student thrives in learning Deep learning Tech</h3>
 
