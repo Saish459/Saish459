@@ -10,9 +10,7 @@
 
 - 💬 Ask me about **Data Science, Machine learning and Deep learning**
 
-- 📫 Reach me: [Mail](mailto:pavannaru9@gmail.com)
-
-- ⚡ Fun fact **Life is short! Don't waste time 😉**
+- 😄 Fun fact **"Life is short! Enjoy every moment"**
 
 
 ## Connect 🤝
