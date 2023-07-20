@@ -1,9 +1,8 @@
 <!--![![MasterHead](https://raw.githubusercontent.com/Saish459/Saish459/main/github-header-image.png)](https://www.linkedin.com/in/pavansaish/)-->
 <h1 align="center">Hi 👋, I'm Naru Venkata Pavan Saish</h1>
 <h3 align="center">Passionate Final year student thrives in learning Deep learning Tech</h3>
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Saish459/Saish459/main/data_scientist.gif">
-<br><br>
+<br>
 
 - 🌱 I’m currently learning Natural Language Processing **Transformers and Hugging Face**
 
@@ -18,9 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pavansaish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavansaish/" height="30" width="40" /></a>
-<a href="https://medium.com/@pavansaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pavansaish" height="30" width="40" /></a>
-<a href="https://leetcode.com/pavansai_sh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pavansai_sh/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pavansaish"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pavannaruwork9@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/Saish459"><img title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://medium.com/@pavansaish"><img title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
