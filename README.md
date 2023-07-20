@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Saish459/Saish459/main/data_scientist.gif">
 <br>
 
-- 🌱 I’m currently learning Natural Language Processing **Transformers and Hugging Face**
+- 🌱 I’m currently learning Natural Language Processing, Transformers**
 
 - 📝 I regularly write articles on Machine learning & Deep learning. 👉 [Check out!](https://medium.com/@pavansaish)
 
