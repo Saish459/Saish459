@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Naru Venkata Pavan Saish</h1>
 <h3 align="center">Passionate Final year student thrives in learning Deep learning Tech</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Saish459/Saish459/main/data_scientist.gif">
-<br><br>
+<br>
 
 - 🌱 I’m currently learning Natural Language Processing, Transformers
 
