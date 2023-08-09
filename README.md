@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pavan Saish</h1>
-<h3 align="center">Passionate Final year student thrives in learning latest Technologies</h3>
+<h3 align="center">Passionate Final year student thrives in learning latest Tech</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Saish459/Saish459/main/data_scientist.gif">
 <br>
 
