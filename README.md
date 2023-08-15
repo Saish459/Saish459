@@ -11,7 +11,7 @@
 
 - 😄 Fun fact **"Life is short! Enjoy every moment"**
   
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1rNyEHF3A-BAWXV8Yl1AME9lSLL8YKRsH/view?usp=sharing) ✨
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1P51SuHppgonBAJ-yQO9zn4ZGiMZlYlaf/view?usp=drive_link) 🧑🏻‍🎓
 
 
 ## Connect 🤝
