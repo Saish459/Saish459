@@ -11,7 +11,7 @@
 
 - 😄 Fun fact **"Life is short! Enjoy every moment"**
   
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1Zd90gfJFALNSXXS9KlEtuIm-3CvXUVsB/view?usp=drive_link) and [Portfolio](https://saish459.github.io/) 🧑🏻‍🎓
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1Zd90gfJFALNSXXS9KlEtuIm-3CvXUVsB/view?usp=drive_link)
 
 
 ## Connect 🤝
