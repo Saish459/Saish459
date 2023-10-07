@@ -1,6 +1,6 @@
 <h1 align="center" style="color:black">Hi 👋, I'm Pavan Saish</h1>
 
-<h3 align="center" style="color:black">🧑🏻‍🎓 Passionate Final year student thrives in learning latest Tech | <a href="https://saish459.github.io/" target="_blank" style="text-decoration: none; color: black;">Portfolio</a> 🔗</h3>
+<h3 align="center" style="color:black">🧑🏻‍🎓 Passionate Final year student thrives in learning latest Tech || <a href="https://saish459.github.io/" target="_blank" style="text-decoration: none; color: black;">Portfolio</a> 🔗</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Saish459/Saish459/main/data_scientist.gif">
 <br>
