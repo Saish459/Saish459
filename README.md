@@ -12,8 +12,6 @@
 - 💬 Ask me about **Data Science, Machine learning and Deep learning**
 
 - 😄 Fun fact **"Life is short! Enjoy every moment"**
-  
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1SuDafWlhs2pwKxfgfa3DYCIZnODaB8JT/view?usp=sharing)
 
 
 ## Connect 🤝
