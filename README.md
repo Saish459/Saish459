@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Natural Language Processing, Transformers and AI Models.
 
-- 📝 I write articles on Machine learning & Deep learning on [Medium](https://medium.com/@pavansaish)
+- 📝 I write articles on Machine learning & Deep learning in [Medium](https://medium.com/@pavansaish) .
 
 - 💬 Ask me about **Data Science, Machine learning, and Deep learning**
 
