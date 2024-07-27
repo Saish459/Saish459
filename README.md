@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Saish459/Saish459/main/data_scientist.gif">
 <br>
 
-- 🌱 I’m currently learning Natural Language Processing, Transformers
+- 🌱 I’m currently learning Natural Language Processing, Transformers and AI Models.
 
-- 📝 I write articles on Machine learning & Deep learning on [Medium](https://medium.com/@pavansaish) ⭐️
+- 📝 I write articles on Machine learning & Deep learning on [Medium](https://medium.com/@pavansaish)
 
-- 💬 Ask me about **Data Science, Machine learning and Deep learning**
+- 💬 Ask me about **Data Science, Machine learning, and Deep learning**
 
 - 😄 Fun fact **"Life is short! Enjoy every moment"**
 
