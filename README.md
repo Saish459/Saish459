@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on LLMs, Transformers, PEFT & RAG.
 
-- 📝 I write articles on Machine learning & Deep learning in [Medium](https://medium.com/@pavansaish) .
+- 📝 I write articles on Machine learning & Deep learning in [Medium](https://medium.com/@pavansaish)
 
 - 💬 Ask me about **Data Science, Machine learning, and Deep learning**
 
